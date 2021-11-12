@@ -1,0 +1,26 @@
+#d1{
+    margin: 40px;
+    background-color: aqua;
+    height: 1000px;
+    box-shadow:0 0  100px black;
+}
+h2{
+    text-align: center;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px rgb(192, 19, 19);
+    border-radius: 100px;
+    margin: 50px;
+    padding: 40px;
+    color: brown;
+}
+#im{
+   
+}
+h3{
+    text-align: center;
+    
+    
+    margin: 50px;
+    padding: 40px;
+    color: rgb(20, 20, 20);
+}
